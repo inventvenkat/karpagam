@@ -2,7 +2,7 @@
 
 module Lh where
 
-
+-- Hi this is Venkatesh
 lucky :: (Integral a) => a -> String
 lucky x 
     | y == 7    = "LUCKY NUMBER SEVEN!"
